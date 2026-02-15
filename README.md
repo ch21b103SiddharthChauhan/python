@@ -28,12 +28,15 @@ The system includes:
 ## Environment Setup
 
 It is recommended to use a virtual environment.
+
 python -m venv venv
 
 
 Activate it:
 **Windows**
 venv\Scripts\activate
+
+
 **Mac/Linux**
 source venv/bin/activate
 
